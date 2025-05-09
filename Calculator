@@ -1,2 +1,8 @@
 Console.WriteLine("Abdullah Mahmood");
 Console.WriteLine("24-ST-003");
+Console.WriteLine("Enter number 1");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("enter number 2");
+int b = Convert.ToInt32(Console.ReadLine());
+int sum = a+b;
+Console.WriteLine(sum);
